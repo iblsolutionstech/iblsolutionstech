@@ -4,7 +4,7 @@ Hola, soy Mauro Lopez 👋
 
 Systems · SQL · Business Processes · Development
 
-Coordinador de Soporte de Sistemas · Analista Funcional Técnico · SQL Server · WMS / ERP
+Coordinador de Sistemas · Analista Funcional Técnico · SQL Server · WMS / ERP
 
 
 
