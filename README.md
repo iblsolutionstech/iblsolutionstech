@@ -15,9 +15,9 @@
 
 ## Sobre mí
 
-Mi trayectoria profesional comenzó en operaciones logísticas y evolucionó hacia Sistemas. Ese recorrido me permite entender los procesos desde la operación y, al mismo tiempo, analizar la solución desde una mirada funcional y técnica.
+Mi trayectoria profesional comenzó en operaciones logísticas y evolucionó hacia Sistemas. Esa experiencia me permite comprender los procesos desde la operación y, al mismo tiempo, analizarlos desde una mirada funcional y técnica.
 
-Actualmente trabajo combinando:
+Actualmente trabajo principalmente con:
 
 - SQL Server y T-SQL
 - Análisis funcional y técnico
@@ -26,9 +26,9 @@ Actualmente trabajo combinando:
 - Integraciones y reporting
 - Procesos logísticos y mejora continua
 - Coordinación de requerimientos e incidentes
-- JavaScript, React y Git como parte de mi evolución hacia desarrollo
+- JavaScript, React y Git
 
-Mi foco está en conectar **negocio, procesos, datos y tecnología**.
+Mi foco está en conectar **negocio, procesos, datos y tecnología** para resolver necesidades concretas de la operación.
 
 ## Tecnologías y herramientas
 
@@ -49,21 +49,21 @@ Mi foco está en conectar **negocio, procesos, datos y tecnología**.
 ## Proyectos destacados
 
 ### 🧮 Cotizador de Agencia Digital
-Aplicación desarrollada para practicar lógica de negocio e interacción con usuarios.
+Aplicación web para armar propuestas comerciales, calcular condiciones, comparar alternativas y guardar un historial de cotizaciones.
 
 **Stack:** JavaScript · HTML · CSS  
 [Ver repositorio →](https://github.com/iblsolutionstech/cotizador-agencia-digital)
 
-### ⚛️ Atelier Yanina Cattadori
-Proyecto web enfocado en componentes, presentación visual y experiencia de usuario.
+### ⚛️ Atelier Yanina Cattadori · React
+Proyecto web desarrollado con React para un atelier de moda circular, arreglos de ropa y diseño de indumentaria.
 
-**Stack:** React · JavaScript · CSS  
+**Stack:** React · JavaScript · Vite · CSS  
 [Ver repositorio →](https://github.com/iblsolutionstech/Proyecto-React-Atelier-Yanina-Cattadori)
 
-### 🌐 Proyecto Desarrollo Web · CoderHouse
-Proyecto académico con maquetado responsive, CSS/SASS, Bootstrap, Git y despliegue.
+### 🌐 Atelier Yanina Cattadori · Web
+Sitio institucional responsive desarrollado con HTML, SASS, Bootstrap y JavaScript.
 
-**Stack:** HTML · CSS · SASS · Git  
+**Stack:** HTML · SASS · Bootstrap · JavaScript · Git  
 [Ver repositorio →](https://github.com/iblsolutionstech/Curso-Coder-House-)
 
 ## Formación reciente
